@@ -4,7 +4,7 @@ Data Cleaning and Preprocessing using Titanic dataset
 # Overview
 This notebook contains the data cleaning and preprocessing of the Titanic dataset, done as part of an AI & ML internship.
 
-# Steps Performed:
+# Steps Performed
 1. Loaded dataset using Pandas
 2. Handled missing values (used median for Age, mode for Embarked)
 3. Encoded categorical variables (Sex and Embarked)
