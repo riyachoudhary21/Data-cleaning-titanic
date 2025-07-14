@@ -1,8 +1,8 @@
-# Task1-Data-Cleaning-Preprocessing
+# Data-Cleaning-Preprocessing
 Data Cleaning and Preprocessing using Titanic dataset 
 
 # Overview
-This notebook contains the data cleaning and preprocessing of the Titanic dataset, done as part of an AI & ML internship.
+This notebook contains the data cleaning and preprocessing of the Titanic dataset, done.
 
 # Steps Performed
 1. Loaded dataset using Pandas
